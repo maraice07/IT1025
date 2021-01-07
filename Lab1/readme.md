@@ -3,7 +3,7 @@ The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history
 
 ### Information System Components
 
-### GitHub
+#### GitHub
 ##### Client - Server Architecture
 ##### Cloud Computing
 
